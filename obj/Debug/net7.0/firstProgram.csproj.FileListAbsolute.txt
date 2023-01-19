@@ -1,0 +1,15 @@
+/home/scrviy/dev/firstProgram/bin/Debug/net7.0/firstProgram
+/home/scrviy/dev/firstProgram/bin/Debug/net7.0/firstProgram.deps.json
+/home/scrviy/dev/firstProgram/bin/Debug/net7.0/firstProgram.runtimeconfig.json
+/home/scrviy/dev/firstProgram/bin/Debug/net7.0/firstProgram.dll
+/home/scrviy/dev/firstProgram/bin/Debug/net7.0/firstProgram.pdb
+/home/scrviy/dev/firstProgram/obj/Debug/net7.0/firstProgram.csproj.AssemblyReference.cache
+/home/scrviy/dev/firstProgram/obj/Debug/net7.0/firstProgram.GeneratedMSBuildEditorConfig.editorconfig
+/home/scrviy/dev/firstProgram/obj/Debug/net7.0/firstProgram.AssemblyInfoInputs.cache
+/home/scrviy/dev/firstProgram/obj/Debug/net7.0/firstProgram.AssemblyInfo.cs
+/home/scrviy/dev/firstProgram/obj/Debug/net7.0/firstProgram.csproj.CoreCompileInputs.cache
+/home/scrviy/dev/firstProgram/obj/Debug/net7.0/firstProgram.dll
+/home/scrviy/dev/firstProgram/obj/Debug/net7.0/refint/firstProgram.dll
+/home/scrviy/dev/firstProgram/obj/Debug/net7.0/firstProgram.pdb
+/home/scrviy/dev/firstProgram/obj/Debug/net7.0/firstProgram.genruntimeconfig.cache
+/home/scrviy/dev/firstProgram/obj/Debug/net7.0/ref/firstProgram.dll
